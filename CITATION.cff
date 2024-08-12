@@ -1,0 +1,26 @@
+cff-version: 1.0.3
+message: "If you use this dataset, please cite the following publication:"
+title: "A real-world dataset of group emotion experiences based on physiological data"
+authors:
+  - family-names: "Bota"
+    given-names: "Patrícia"
+  - family-names: "Brito"
+    given-names: "Joana"
+  - family-names: "Fred"
+    given-names: "Ana"
+  - family-names: "Cesar"
+    given-names: "Pablo"
+  - family-names: "Silva"
+    given-names: "Hugo"
+date-released: 2024-01-01
+version: "1.0"
+doi: "10.1038/s41597-024-00116-0"  # Replace this with the actual DOI if available.
+url: "https://doi.org/10.1038/s41597-024-00116-0"  # Replace this with the actual URL if available.
+repository-code: "https://github.com/PatriciaBota/EmotiphAI_public"
+repository-artifact: "https://zenodo.org/records/8136135"
+keywords:
+  - "physiological data"
+  - "emotion recognition"
+  - "group experiences"
+  - "real-world dataset"
+license: "CC-BY-4.0"
